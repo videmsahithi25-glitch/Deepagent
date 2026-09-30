@@ -1,0 +1,144 @@
+{
+  "definition": [
+    "What is {topic}?",
+    "Can you explain {topic}?",
+    "Give me an overview of {topic}.",
+    "Tell me about {topic}.",
+    "What does {topic} mean?"
+  ],
+
+  "working": [
+    "How does {topic} work?",
+    "Explain how {topic} works.",
+    "Describe the working of {topic}.",
+    "How is {topic} implemented?",
+    "How does {topic} function internally?"
+  ],
+
+  "comparison": [
+    "Compare {topic} with alternatives.",
+    "How is {topic} different from similar technologies?",
+    "What are the differences between {topic} and its alternatives?",
+    "When should I choose {topic}?",
+    "Why would someone use {topic} instead?"
+  ],
+
+  "advantages": [
+    "What are the advantages of {topic}?",
+    "Why is {topic} useful?",
+    "What benefits does {topic} provide?",
+    "Why do people use {topic}?",
+    "What problems does {topic} solve?"
+  ],
+
+  "architecture": [
+    "Explain the architecture of {topic}.",
+    "Describe the internal architecture of {topic}.",
+    "How is {topic} designed?",
+    "What are the main components of {topic}?",
+    "How is {topic} structured?"
+  ],
+
+  "performance": [
+    "Is {topic} fast?",
+    "How efficient is {topic}?",
+    "How well does {topic} perform?",
+    "What affects the performance of {topic}?",
+    "How can the performance of {topic} be improved?"
+  ],
+
+  "beginner": [
+    "I'm new to {topic}.",
+    "Teach me {topic}.",
+    "Help me understand {topic}.",
+    "Where should I start learning {topic}?",
+    "Explain {topic} like I'm a beginner."
+  ],
+
+  "advanced": [
+    "Explain advanced concepts in {topic}.",
+    "How can I master {topic}?",
+    "What are advanced techniques in {topic}?",
+    "Show me expert-level knowledge about {topic}.",
+    "What should experienced users know about {topic}?"
+  ],
+
+  "troubleshooting": [
+    "Why is {topic} not working?",
+    "Help me fix issues with {topic}.",
+    "I'm getting errors while using {topic}.",
+    "Troubleshoot problems related to {topic}.",
+    "How do I debug issues in {topic}?"
+  ]
+,"properties": [
+    "What are the theories behind {topic}?",
+    "Explain the theories of {topic}.",
+    "What principles does {topic} use?",
+    "What concepts are behind {topic}?",
+    "What are the core ideas of {topic}?",
+    "Explain the principles behind {topic}.",
+    "What is the theory behind {topic}?",
+    "What are the foundations of {topic}?"
+],
+
+"features": [
+    "What features does {topic} have?",
+    "Explain the features of {topic}.",
+    "What capabilities does {topic} provide?",
+    "What functionality does {topic} offer?",
+    "Which feature of {topic} is most important?",
+    "Describe the main features of {topic}.",
+    "What are the key characteristics of {topic}?"
+],
+
+"components": [
+    "What are the components of {topic}?",
+    "Explain each component of {topic}.",
+    "How are the components of {topic} organized?",
+    "Describe the building blocks of {topic}.",
+    "What modules make up {topic}?",
+    "What are the major parts of {topic}?"
+],
+
+"algorithms": [
+    "Which algorithms are used in {topic}?",
+    "Explain the algorithms behind {topic}.",
+    "What algorithm powers {topic}?",
+    "How do the algorithms in {topic} work?",
+    "Describe the algorithmic approach of {topic}."
+],
+
+"limitations": [
+    "What are the limitations of {topic}?",
+    "What problems does {topic} have?",
+    "What are the drawbacks of {topic}?",
+    "Where does {topic} fail?",
+    "What are the disadvantages of {topic}?"
+],
+
+"applications_detail": [
+    "How is {topic} used in healthcare?",
+    "How is {topic} used in education?",
+    "How is {topic} used in finance?",
+    "How is {topic} used in robotics?",
+    "Where can {topic} be applied?",
+    "What are practical applications of {topic}?"
+],
+
+"history_specific": [
+    "When did {topic} begin?",
+    "Who invented {topic}?",
+    "Who discovered {topic}?",
+    "How did {topic} originate?",
+    "What is the origin of {topic}?",
+    "Who introduced {topic}?"
+],
+
+"future": [
+    "What is the future of {topic}?",
+    "What are future developments in {topic}?",
+    "What are upcoming trends in {topic}?",
+    "How will {topic} evolve?",
+    "What updates are expected for {topic}?"
+]
+}

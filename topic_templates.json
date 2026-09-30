@@ -1,0 +1,84 @@
+{
+  "plain": [
+    "{topic}"
+  ],
+
+  "learning": [
+    "Learn {topic}",
+    "Study {topic}",
+    "Understanding {topic}",
+    "Basics of {topic}",
+    "Introduction to {topic}"
+  ],
+
+  "overview": [
+    "{topic} overview",
+    "{topic} explained",
+    "{topic} concepts",
+    "{topic} fundamentals",
+    "{topic} guide"
+  ],
+
+  "history": [
+    "History of {topic}",
+    "Evolution of {topic}",
+    "Development of {topic}",
+    "Origins of {topic}"
+  ],
+
+  "advanced": [
+    "Advanced {topic}",
+    "Expert {topic}",
+    "Professional {topic}",
+    "Deep dive into {topic}"
+  ],
+
+  "applications": [
+    "{topic} applications",
+    "{topic} use cases",
+    "Real-world uses of {topic}",
+    "Where is {topic} used?"
+  ],
+
+  "architecture": [
+    "{topic} architecture",
+    "{topic} design",
+    "{topic} internals",
+    "{topic} components"
+  ],
+  "broad_exploration": [
+  "Complete guide to {topic}",
+  "Everything about {topic}",
+  "Complete overview of {topic}",
+  "Learn everything about {topic}",
+  "Full explanation of {topic}",
+  "In-depth study of {topic}",
+  "Comprehensive guide to {topic}",
+  "Deep understanding of {topic}",
+  "Complete knowledge of {topic}",
+  "End-to-end explanation of {topic}"
+],
+"lifecycle": [
+  "{topic} history and future",
+  "{topic} from beginning to future",
+  "{topic} evolution and future",
+  "{topic} past present and future",
+  "{topic} timeline",
+  "{topic} journey",
+  "{topic} development over time",
+  "{topic} growth over the years",
+  "{topic} complete history",
+  "{topic} complete evolution"
+],"survey": [
+  "{topic} in detail",
+  "{topic} from basics to advanced",
+  "{topic} explained completely",
+  "{topic} complete picture",
+  "{topic} all concepts",
+  "{topic} all aspects",
+  "{topic} everything I should know",
+  "{topic} complete understanding",
+  "{topic} start to finish",
+  "{topic} from scratch"
+]
+}

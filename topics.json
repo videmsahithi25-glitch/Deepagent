@@ -1,0 +1,115 @@
+{
+  "Artificial Intelligence": [
+    "Artificial Intelligence",
+    "Machine Learning",
+    "Deep Learning",
+    "Neural Networks",
+    "Large Language Models",
+    "Prompt Engineering",
+    "Retrieval-Augmented Generation",
+    "Computer Vision",
+    "Natural Language Processing",
+    "Speech Recognition",
+    "Reinforcement Learning",
+    "Generative AI",
+    "Kimi K3",
+    "GPT",
+    "Claude",
+    "Gemini",
+    "DeepSeek"
+  ],
+
+  "Programming": [
+    "Python",
+    "Java",
+    "C",
+    "C++",
+    "C#",
+    "JavaScript",
+    "TypeScript",
+    "Go",
+    "Rust",
+    "Kotlin",
+    "Swift",
+    "PHP"
+  ],
+
+  "Frameworks": [
+    "FastAPI",
+    "Django",
+    "Flask",
+    "Spring Boot",
+    "React",
+    "Angular",
+    "Vue.js",
+    "Node.js"
+  ],
+
+  "Databases": [
+    "PostgreSQL",
+    "MySQL",
+    "SQLite",
+    "MongoDB",
+    "Redis",
+    "Cassandra",
+    "Oracle Database"
+  ],
+
+  "Cloud & DevOps": [
+    "Docker",
+    "Kubernetes",
+    "Terraform",
+    "Jenkins",
+    "GitHub Actions",
+    "AWS",
+    "Azure",
+    "Google Cloud Platform"
+  ],
+
+  "Operating Systems": [
+    "Linux",
+    "Ubuntu",
+    "Windows",
+    "macOS",
+    "Android",
+    "iOS"
+  ],
+
+  "Networking": [
+    "HTTP",
+    "HTTPS",
+    "TCP",
+    "UDP",
+    "DNS",
+    "REST API",
+    "GraphQL",
+    "WebSockets"
+  ],
+
+  "Science": [
+    "Solar Energy",
+    "Climate Change",
+    "Quantum Computing",
+    "Electric Vehicles",
+    "Photosynthesis",
+    "Genetics",
+    "Evolution"
+  ],
+
+  "Mathematics": [
+    "Calculus",
+    "Linear Algebra",
+    "Probability",
+    "Statistics",
+    "Graph Theory"
+  ],
+
+  "History": [
+    "World War II",
+    "Industrial Revolution",
+    "Ancient Egypt",
+    "Roman Empire",
+    "French Revolution"
+  ]
+}
+

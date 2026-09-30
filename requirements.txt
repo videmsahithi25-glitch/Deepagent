@@ -1,0 +1,11 @@
+ deepagents
+ langchain
+ langchain-openai
+ langchain-groq
+ ipykernel
+ python-dotenv
+ tavily-python
+ rank_bm25
+ pytesseract
+ Pillow
+ pdfplumber
